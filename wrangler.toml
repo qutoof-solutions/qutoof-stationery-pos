@@ -1,7 +1,7 @@
 name = "qutoof-crm-2"
 compatibility_date = "2026-10-08"
 compatibility_flags = ["nodejs_compat"]
-pages_build_output_dir = ".vercel/output/static"
+pages_build_output_dir = "out"
 
 [[d1_databases]]
 binding = "DB"
